@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editValor" type="id" />
+    <item name="seekBarGorjeta" type="id" />
+    <item name="inputQtdPessoas" type="id" />
+    <item name="inputSubTotal" type="id" />
+    <item name="serviceTaxSeekBar" type="id" />
+    <item name="valorTotal" type="id" />
+    <item name="totalPorPessoa" type="id" />
+    <item name="lblServicePercent" type="id" />
+</resources>
